@@ -1,0 +1,123 @@
+: Unit 1
+  1-The Web
+  2-HTML
+  3-URl’s
+  4-HTTP
+  5-Web Applications
+
+
+1-The Web
+World Wide Web
+HTML-HyperText Markup Language
+Hyper (Links)
+Invented in 1990s
+30 billion pages
+
+Quiz---
+Question.
+What is the main type of document on the web?
+Answer I gave- HTML
+Correct answer- HTML
+
+Quiz---
+Question.
+What type of files can be found on the web?
+Answer I gave- Plain Text, HTML, Images, Videos, Music.
+Correct answer- Plain Text, HTML, Images, Videos, Music.
+
+Major pieces
+You, your computer plus a browser connects to the internet which connects to a server through a process called HTTP.  The Servers ,other computers, then send you your requested content to the face of your browser.
+
+Quiz---
+Answer I gave- C, D, B, A.
+Correct Answer- C, D, B, A.
+
+
+
+2-HTML
+Hyper Text Markup Language. 
+
+HTML is made up of:
+-Text content (what you see)
+-Markup (What it looks like)
+-References to other documents (e.g. Images + Videos.)
+-Links to other pages
+HTML Playground
+
+
+HTML Markup
+
+<Name> Contents </Name>  This is an element. 
+(opening)                 (Closing)
+    (Tag)                       (Tag)
+
+
+<b> contents </b>  B tag.  (bold)
+
+Quiz---
+Make the words, reasonably straight forward bol.
+Answer I gave- <b>reasonably straight forward</b>
+Correct answer- <b>reasonably straight forward</b>
+
+More Tags
+em Tags. Stands for emphasis- italics
+
+<em>contents</em>
+
+Quiz---
+
+Quiz---
+
+HTML Attributes. 
+<Tag ATTR=”Value”>Contents</Tag>
+
+Anchor-<a>-link
+
+<a herf=”www.reddit.com”>derp</a> 
+
+Quiz---
+
+Images
+<img>- images 
+<img src=”url” alt=”text”> --- Void tag
+
+
+White space
+
+<br>break
+<p>paragraph</p>
+
+Quiz---
+
+Quiz---
+
+
+inline / block
+<br>-inline           <p>=block
+text<br>text        <p>text</p>text
+text/                     text goes in invisible box
+text
+<b> <em> <img>
+
+
+Span / div
+
+<span class=”foo”>          <div class=”bar”>
+text                 css             text
+</span>                           </div>
+inline                                 block
+
+Quiz---
+
+Inline elements are:
+a, span, img, strong, and br.
+
+
+HTML documents.
+
+<head>
+[Title css js]
+</head>
+<body>
+[contents]
+</body>
